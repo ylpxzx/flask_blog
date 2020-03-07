@@ -22,7 +22,7 @@ python-dotenv==0.10.0
 python-editor==1.0.3
 six==1.11.0
 sqlalchemy==1.2.10
-werkzeug==0.14.1
+werkzeug==0.15.3
 wtforms==2.2.1
 # dev
 argh==0.26.2
